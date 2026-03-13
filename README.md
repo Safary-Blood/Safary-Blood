@@ -408,8 +408,8 @@ Prácticas profesionales en el departamento de tecnología e innovación de la e
 ## 🌐 Idiomas
 
 - **Español:** Nativo (Hablado y Escrito - Fluido)
-- **Inglés:** Intermedio (Lectura técnica avanzada, documentación, comunicación profesional)
-- **Francés:** Intermedio (Conversacional y profesional)
+- **Inglés:** Técnico
+- **Francés:** Bajo
 
 ---
 
