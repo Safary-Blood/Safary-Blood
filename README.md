@@ -1,4 +1,4 @@
-# 👋 Hola, soy Jose Maximiliano Nzang Sima Nkene
+# 👋 Hola, soy José Maximiliano Nzang SIMA NKENE
 
 ## 🚀 Ingeniero de Software | Especialista en Sistemas Empresariales | Especialista en IA y Automatización
 
